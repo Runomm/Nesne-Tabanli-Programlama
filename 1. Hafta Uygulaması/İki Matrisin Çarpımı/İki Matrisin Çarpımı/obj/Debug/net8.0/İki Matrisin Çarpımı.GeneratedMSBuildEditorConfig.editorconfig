@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = İki_Matrisin_Çarpımı
+build_property.ProjectDir = C:\Users\mehon\OneDrive\Masaüstü\Nesne Tabanlı Programlama\2. Hafta Ödev Soruları\İki Matrisin Çarpımı\İki Matrisin Çarpımı\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

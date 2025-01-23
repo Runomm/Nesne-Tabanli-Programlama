@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Nesne Tabanli Programlama\\Nesne-Tabanli-Programlama\\Nesne Tabanl\u0131 Programlama\u00D6devi\\Nesne Tabanl\u0131 Programlama\u00D6devi-Mehmet Onur Boyraz-245541023\\Hang Man \u00D6devi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6DB2BB-ADFB-4344-B8E1-9F39FBCDDF61}|HangMan\\HangMan.csproj|c:\\users\\mehon\\onedrive\\masa\u00FCst\u00FC\\nesne tabanli programlama\\nesne-tabanli-programlama\\nesne tabanl\u0131 programlama\u00F6devi\\nesne tabanl\u0131 programlama\u00F6devi-mehmet onur boyraz-245541023\\hang man \u00F6devi\\hangman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D6DB2BB-ADFB-4344-B8E1-9F39FBCDDF61}|HangMan\\HangMan.csproj|solutionrelative:hangman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Nesne Tabanli Programlama\\Nesne-Tabanli-Programlama\\Nesne Tabanl\u0131 Programlama\u00D6devi\\Nesne Tabanl\u0131 Programlama\u00D6devi-Mehmet Onur Boyraz-245541023\\Hang Man \u00D6devi\\HangMan\\Program.cs",
+              "RelativeDocumentMoniker": "HangMan\\Program.cs",
+              "ToolTip": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Nesne Tabanli Programlama\\Nesne-Tabanli-Programlama\\Nesne Tabanl\u0131 Programlama\u00D6devi\\Nesne Tabanl\u0131 Programlama\u00D6devi-Mehmet Onur Boyraz-245541023\\Hang Man \u00D6devi\\HangMan\\Program.cs",
+              "RelativeToolTip": "HangMan\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwFYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:45:18.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\mehon\source\repos\Market Yönetim Sistemi\Market Yönetim Sistemi\obj\Debug\net8.0\Market Yönetim Sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehon\source\repos\Market Yönetim Sistemi\Market Yönetim Sistemi\obj\Debug\net8.0\Market Yönetim Sistemi.AssemblyInfoInputs.cache
+C:\Users\mehon\source\repos\Market Yönetim Sistemi\Market Yönetim Sistemi\obj\Debug\net8.0\Market Yönetim Sistemi.AssemblyInfo.cs
+C:\Users\mehon\source\repos\Market Yönetim Sistemi\Market Yönetim Sistemi\obj\Debug\net8.0\Market Yönetim Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\mehon\source\repos\Market Yönetim Sistemi\Market Yönetim Sistemi\bin\Debug\net8.0\Market Yönetim Sistemi.exe
+C:\Users\mehon\source\repos\Market Yönetim Sistemi\Market Yönetim Sistemi\bin\Debug\net8.0\Market Yönetim Sistemi.deps.json
+C:\Users\mehon\source\repos\Market Yönetim Sistemi\Market Yönetim Sistemi\bin\Debug\net8.0\Market Yönetim Sistemi.runtimeconfig.json
+C:\Users\mehon\source\repos\Market Yönetim Sistemi\Market Yönetim Sistemi\bin\Debug\net8.0\Market Yönetim Sistemi.dll
+C:\Users\mehon\source\repos\Market Yönetim Sistemi\Market Yönetim Sistemi\bin\Debug\net8.0\Market Yönetim Sistemi.pdb
+C:\Users\mehon\source\repos\Market Yönetim Sistemi\Market Yönetim Sistemi\obj\Debug\net8.0\Market Yönetim Sistemi.dll
+C:\Users\mehon\source\repos\Market Yönetim Sistemi\Market Yönetim Sistemi\obj\Debug\net8.0\refint\Market Yönetim Sistemi.dll
+C:\Users\mehon\source\repos\Market Yönetim Sistemi\Market Yönetim Sistemi\obj\Debug\net8.0\Market Yönetim Sistemi.pdb
+C:\Users\mehon\source\repos\Market Yönetim Sistemi\Market Yönetim Sistemi\obj\Debug\net8.0\Market Yönetim Sistemi.genruntimeconfig.cache
+C:\Users\mehon\source\repos\Market Yönetim Sistemi\Market Yönetim Sistemi\obj\Debug\net8.0\ref\Market Yönetim Sistemi.dll

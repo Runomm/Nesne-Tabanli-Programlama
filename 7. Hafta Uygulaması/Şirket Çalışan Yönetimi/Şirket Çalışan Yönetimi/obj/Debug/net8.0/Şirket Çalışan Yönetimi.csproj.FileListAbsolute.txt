@@ -1,0 +1,14 @@
+C:\Users\mehon\source\repos\Şirket Çalışan Yönetimi\Şirket Çalışan Yönetimi\bin\Debug\net8.0\Şirket Çalışan Yönetimi.exe
+C:\Users\mehon\source\repos\Şirket Çalışan Yönetimi\Şirket Çalışan Yönetimi\bin\Debug\net8.0\Şirket Çalışan Yönetimi.deps.json
+C:\Users\mehon\source\repos\Şirket Çalışan Yönetimi\Şirket Çalışan Yönetimi\bin\Debug\net8.0\Şirket Çalışan Yönetimi.runtimeconfig.json
+C:\Users\mehon\source\repos\Şirket Çalışan Yönetimi\Şirket Çalışan Yönetimi\bin\Debug\net8.0\Şirket Çalışan Yönetimi.dll
+C:\Users\mehon\source\repos\Şirket Çalışan Yönetimi\Şirket Çalışan Yönetimi\bin\Debug\net8.0\Şirket Çalışan Yönetimi.pdb
+C:\Users\mehon\source\repos\Şirket Çalışan Yönetimi\Şirket Çalışan Yönetimi\obj\Debug\net8.0\Şirket Çalışan Yönetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehon\source\repos\Şirket Çalışan Yönetimi\Şirket Çalışan Yönetimi\obj\Debug\net8.0\Şirket Çalışan Yönetimi.AssemblyInfoInputs.cache
+C:\Users\mehon\source\repos\Şirket Çalışan Yönetimi\Şirket Çalışan Yönetimi\obj\Debug\net8.0\Şirket Çalışan Yönetimi.AssemblyInfo.cs
+C:\Users\mehon\source\repos\Şirket Çalışan Yönetimi\Şirket Çalışan Yönetimi\obj\Debug\net8.0\Şirket Çalışan Yönetimi.csproj.CoreCompileInputs.cache
+C:\Users\mehon\source\repos\Şirket Çalışan Yönetimi\Şirket Çalışan Yönetimi\obj\Debug\net8.0\Şirket Çalışan Yönetimi.dll
+C:\Users\mehon\source\repos\Şirket Çalışan Yönetimi\Şirket Çalışan Yönetimi\obj\Debug\net8.0\refint\Şirket Çalışan Yönetimi.dll
+C:\Users\mehon\source\repos\Şirket Çalışan Yönetimi\Şirket Çalışan Yönetimi\obj\Debug\net8.0\Şirket Çalışan Yönetimi.pdb
+C:\Users\mehon\source\repos\Şirket Çalışan Yönetimi\Şirket Çalışan Yönetimi\obj\Debug\net8.0\Şirket Çalışan Yönetimi.genruntimeconfig.cache
+C:\Users\mehon\source\repos\Şirket Çalışan Yönetimi\Şirket Çalışan Yönetimi\obj\Debug\net8.0\ref\Şirket Çalışan Yönetimi.dll

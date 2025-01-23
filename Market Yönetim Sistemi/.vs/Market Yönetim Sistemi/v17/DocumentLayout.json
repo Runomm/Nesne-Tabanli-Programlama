@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F239E6-8944-45FF-B62B-4D6E0D323D61}|Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi.csproj|c:\\users\\mehon\\source\\repos\\market y\u00F6netim sistemi\\market y\u00F6netim sistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F239E6-8944-45FF-B62B-4D6E0D323D61}|Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi.csproj|solutionrelative:market y\u00F6netim sistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F239E6-8944-45FF-B62B-4D6E0D323D61}|Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi.csproj|c:\\users\\mehon\\source\\repos\\market y\u00F6netim sistemi\\market y\u00F6netim sistemi\\yuzdelikindirim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F239E6-8944-45FF-B62B-4D6E0D323D61}|Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi.csproj|solutionrelative:market y\u00F6netim sistemi\\yuzdelikindirim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F239E6-8944-45FF-B62B-4D6E0D323D61}|Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi.csproj|c:\\users\\mehon\\source\\repos\\market y\u00F6netim sistemi\\market y\u00F6netim sistemi\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F239E6-8944-45FF-B62B-4D6E0D323D61}|Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi.csproj|solutionrelative:market y\u00F6netim sistemi\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F239E6-8944-45FF-B62B-4D6E0D323D61}|Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi.csproj|c:\\users\\mehon\\source\\repos\\market y\u00F6netim sistemi\\market y\u00F6netim sistemi\\siparisdurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F239E6-8944-45FF-B62B-4D6E0D323D61}|Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi.csproj|solutionrelative:market y\u00F6netim sistemi\\siparisdurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F239E6-8944-45FF-B62B-4D6E0D323D61}|Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi.csproj|c:\\users\\mehon\\source\\repos\\market y\u00F6netim sistemi\\market y\u00F6netim sistemi\\siparis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F239E6-8944-45FF-B62B-4D6E0D323D61}|Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi.csproj|solutionrelative:market y\u00F6netim sistemi\\siparis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F239E6-8944-45FF-B62B-4D6E0D323D61}|Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi.csproj|c:\\users\\mehon\\source\\repos\\market y\u00F6netim sistemi\\market y\u00F6netim sistemi\\sepet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F239E6-8944-45FF-B62B-4D6E0D323D61}|Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi.csproj|solutionrelative:market y\u00F6netim sistemi\\sepet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F239E6-8944-45FF-B62B-4D6E0D323D61}|Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi.csproj|c:\\users\\mehon\\source\\repos\\market y\u00F6netim sistemi\\market y\u00F6netim sistemi\\sabitindirim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F239E6-8944-45FF-B62B-4D6E0D323D61}|Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi.csproj|solutionrelative:market y\u00F6netim sistemi\\sabitindirim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F239E6-8944-45FF-B62B-4D6E0D323D61}|Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi.csproj|c:\\users\\mehon\\source\\repos\\market y\u00F6netim sistemi\\market y\u00F6netim sistemi\\odeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F239E6-8944-45FF-B62B-4D6E0D323D61}|Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi.csproj|solutionrelative:market y\u00F6netim sistemi\\odeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F239E6-8944-45FF-B62B-4D6E0D323D61}|Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi.csproj|c:\\users\\mehon\\source\\repos\\market y\u00F6netim sistemi\\market y\u00F6netim sistemi\\nakitodeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F239E6-8944-45FF-B62B-4D6E0D323D61}|Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi.csproj|solutionrelative:market y\u00F6netim sistemi\\nakitodeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F239E6-8944-45FF-B62B-4D6E0D323D61}|Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi.csproj|c:\\users\\mehon\\source\\repos\\market y\u00F6netim sistemi\\market y\u00F6netim sistemi\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F239E6-8944-45FF-B62B-4D6E0D323D61}|Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi.csproj|solutionrelative:market y\u00F6netim sistemi\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F239E6-8944-45FF-B62B-4D6E0D323D61}|Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi.csproj|c:\\users\\mehon\\source\\repos\\market y\u00F6netim sistemi\\market y\u00F6netim sistemi\\kurumsalmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F239E6-8944-45FF-B62B-4D6E0D323D61}|Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi.csproj|solutionrelative:market y\u00F6netim sistemi\\kurumsalmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F239E6-8944-45FF-B62B-4D6E0D323D61}|Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi.csproj|c:\\users\\mehon\\source\\repos\\market y\u00F6netim sistemi\\market y\u00F6netim sistemi\\kredikartodeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F239E6-8944-45FF-B62B-4D6E0D323D61}|Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi.csproj|solutionrelative:market y\u00F6netim sistemi\\kredikartodeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F239E6-8944-45FF-B62B-4D6E0D323D61}|Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi.csproj|c:\\users\\mehon\\source\\repos\\market y\u00F6netim sistemi\\market y\u00F6netim sistemi\\indirim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F239E6-8944-45FF-B62B-4D6E0D323D61}|Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi.csproj|solutionrelative:market y\u00F6netim sistemi\\indirim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F239E6-8944-45FF-B62B-4D6E0D323D61}|Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi.csproj|c:\\users\\mehon\\source\\repos\\market y\u00F6netim sistemi\\market y\u00F6netim sistemi\\havaleodeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F239E6-8944-45FF-B62B-4D6E0D323D61}|Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi.csproj|solutionrelative:market y\u00F6netim sistemi\\havaleodeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F239E6-8944-45FF-B62B-4D6E0D323D61}|Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi.csproj|c:\\users\\mehon\\source\\repos\\market y\u00F6netim sistemi\\market y\u00F6netim sistemi\\bireyselmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F239E6-8944-45FF-B62B-4D6E0D323D61}|Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi.csproj|solutionrelative:market y\u00F6netim sistemi\\bireyselmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NakitOdeme.cs",
+              "DocumentMoniker": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi\\NakitOdeme.cs",
+              "RelativeDocumentMoniker": "Market Y\u00F6netim Sistemi\\NakitOdeme.cs",
+              "ToolTip": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi\\NakitOdeme.cs",
+              "RelativeToolTip": "Market Y\u00F6netim Sistemi\\NakitOdeme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:50:07.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Odeme.cs",
+              "DocumentMoniker": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi\\Odeme.cs",
+              "RelativeDocumentMoniker": "Market Y\u00F6netim Sistemi\\Odeme.cs",
+              "ToolTip": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi\\Odeme.cs",
+              "RelativeToolTip": "Market Y\u00F6netim Sistemi\\Odeme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:49:45.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi\\Program.cs",
+              "RelativeDocumentMoniker": "Market Y\u00F6netim Sistemi\\Program.cs",
+              "ToolTip": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi\\Program.cs",
+              "RelativeToolTip": "Market Y\u00F6netim Sistemi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:51:23.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SabitIndirim.cs",
+              "DocumentMoniker": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi\\SabitIndirim.cs",
+              "RelativeDocumentMoniker": "Market Y\u00F6netim Sistemi\\SabitIndirim.cs",
+              "ToolTip": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi\\SabitIndirim.cs",
+              "RelativeToolTip": "Market Y\u00F6netim Sistemi\\SabitIndirim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:50:38.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sepet.cs",
+              "DocumentMoniker": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi\\Sepet.cs",
+              "RelativeDocumentMoniker": "Market Y\u00F6netim Sistemi\\Sepet.cs",
+              "ToolTip": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi\\Sepet.cs",
+              "RelativeToolTip": "Market Y\u00F6netim Sistemi\\Sepet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:50:56.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Siparis.cs",
+              "DocumentMoniker": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi\\Siparis.cs",
+              "RelativeDocumentMoniker": "Market Y\u00F6netim Sistemi\\Siparis.cs",
+              "ToolTip": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi\\Siparis.cs",
+              "RelativeToolTip": "Market Y\u00F6netim Sistemi\\Siparis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:51:14.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SiparisDurumu.cs",
+              "DocumentMoniker": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi\\SiparisDurumu.cs",
+              "RelativeDocumentMoniker": "Market Y\u00F6netim Sistemi\\SiparisDurumu.cs",
+              "ToolTip": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi\\SiparisDurumu.cs",
+              "RelativeToolTip": "Market Y\u00F6netim Sistemi\\SiparisDurumu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:51:05.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi\\Urun.cs",
+              "RelativeDocumentMoniker": "Market Y\u00F6netim Sistemi\\Urun.cs",
+              "ToolTip": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi\\Urun.cs",
+              "RelativeToolTip": "Market Y\u00F6netim Sistemi\\Urun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:50:45.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YuzdelikIndirim.cs",
+              "DocumentMoniker": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi\\YuzdelikIndirim.cs",
+              "RelativeDocumentMoniker": "Market Y\u00F6netim Sistemi\\YuzdelikIndirim.cs",
+              "ToolTip": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi\\YuzdelikIndirim.cs",
+              "RelativeToolTip": "Market Y\u00F6netim Sistemi\\YuzdelikIndirim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:50:30.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Musteri.cs",
+              "DocumentMoniker": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi\\Musteri.cs",
+              "RelativeDocumentMoniker": "Market Y\u00F6netim Sistemi\\Musteri.cs",
+              "ToolTip": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi\\Musteri.cs",
+              "RelativeToolTip": "Market Y\u00F6netim Sistemi\\Musteri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:49:10.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KurumsalMusteri.cs",
+              "DocumentMoniker": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi\\KurumsalMusteri.cs",
+              "RelativeDocumentMoniker": "Market Y\u00F6netim Sistemi\\KurumsalMusteri.cs",
+              "ToolTip": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi\\KurumsalMusteri.cs",
+              "RelativeToolTip": "Market Y\u00F6netim Sistemi\\KurumsalMusteri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:49:35.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KrediKartOdeme.cs",
+              "DocumentMoniker": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi\\KrediKartOdeme.cs",
+              "RelativeDocumentMoniker": "Market Y\u00F6netim Sistemi\\KrediKartOdeme.cs",
+              "ToolTip": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi\\KrediKartOdeme.cs",
+              "RelativeToolTip": "Market Y\u00F6netim Sistemi\\KrediKartOdeme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:49:56.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Indirim.cs",
+              "DocumentMoniker": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi\\Indirim.cs",
+              "RelativeDocumentMoniker": "Market Y\u00F6netim Sistemi\\Indirim.cs",
+              "ToolTip": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi\\Indirim.cs",
+              "RelativeToolTip": "Market Y\u00F6netim Sistemi\\Indirim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:50:23.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HavaleOdeme.cs",
+              "DocumentMoniker": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi\\HavaleOdeme.cs",
+              "RelativeDocumentMoniker": "Market Y\u00F6netim Sistemi\\HavaleOdeme.cs",
+              "ToolTip": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi\\HavaleOdeme.cs",
+              "RelativeToolTip": "Market Y\u00F6netim Sistemi\\HavaleOdeme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:50:15.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BireyselMusteri.cs",
+              "DocumentMoniker": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi\\BireyselMusteri.cs",
+              "RelativeDocumentMoniker": "Market Y\u00F6netim Sistemi\\BireyselMusteri.cs",
+              "ToolTip": "C:\\Users\\mehon\\source\\repos\\Market Y\u00F6netim Sistemi\\Market Y\u00F6netim Sistemi\\BireyselMusteri.cs",
+              "RelativeToolTip": "Market Y\u00F6netim Sistemi\\BireyselMusteri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:49:23.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\mehon\source\repos\10.soru\10.soru\bin\Debug\net8.0\10.soru.exe
+C:\Users\mehon\source\repos\10.soru\10.soru\bin\Debug\net8.0\10.soru.deps.json
+C:\Users\mehon\source\repos\10.soru\10.soru\bin\Debug\net8.0\10.soru.runtimeconfig.json
+C:\Users\mehon\source\repos\10.soru\10.soru\bin\Debug\net8.0\10.soru.dll
+C:\Users\mehon\source\repos\10.soru\10.soru\bin\Debug\net8.0\10.soru.pdb
+C:\Users\mehon\source\repos\10.soru\10.soru\obj\Debug\net8.0\10.soru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehon\source\repos\10.soru\10.soru\obj\Debug\net8.0\10.soru.AssemblyInfoInputs.cache
+C:\Users\mehon\source\repos\10.soru\10.soru\obj\Debug\net8.0\10.soru.AssemblyInfo.cs
+C:\Users\mehon\source\repos\10.soru\10.soru\obj\Debug\net8.0\10.soru.csproj.CoreCompileInputs.cache
+C:\Users\mehon\source\repos\10.soru\10.soru\obj\Debug\net8.0\10.soru.dll
+C:\Users\mehon\source\repos\10.soru\10.soru\obj\Debug\net8.0\refint\10.soru.dll
+C:\Users\mehon\source\repos\10.soru\10.soru\obj\Debug\net8.0\10.soru.pdb
+C:\Users\mehon\source\repos\10.soru\10.soru\obj\Debug\net8.0\10.soru.genruntimeconfig.cache
+C:\Users\mehon\source\repos\10.soru\10.soru\obj\Debug\net8.0\ref\10.soru.dll

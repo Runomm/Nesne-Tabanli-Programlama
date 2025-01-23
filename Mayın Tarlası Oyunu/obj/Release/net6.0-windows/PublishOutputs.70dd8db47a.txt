@@ -1,0 +1,5 @@
+C:\Users\mehon\OneDrive\Masaüstü\Others\Mayın Tarlası\Minesweeper_WindowsForms.exe
+C:\Users\mehon\OneDrive\Masaüstü\Others\Mayın Tarlası\Minesweeper_WindowsForms.dll
+C:\Users\mehon\OneDrive\Masaüstü\Others\Mayın Tarlası\Minesweeper_WindowsForms.deps.json
+C:\Users\mehon\OneDrive\Masaüstü\Others\Mayın Tarlası\Minesweeper_WindowsForms.runtimeconfig.json
+C:\Users\mehon\OneDrive\Masaüstü\Others\Mayın Tarlası\Minesweeper_WindowsForms.pdb

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Nesne Tabanl\u0131 Programlama\\2. Hafta \u00D6dev Sorular\u0131\\Tech City\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{805F109D-371C-4F6A-A062-74DCF4DC9816}|Tech City\\Tech City.csproj|c:\\users\\mehon\\onedrive\\masa\u00FCst\u00FC\\nesne tabanl\u0131 programlama\\2. hafta \u00F6dev sorular\u0131\\tech city\\tech city\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805F109D-371C-4F6A-A062-74DCF4DC9816}|Tech City\\Tech City.csproj|solutionrelative:tech city\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Nesne Tabanl\u0131 Programlama\\2. Hafta \u00D6dev Sorular\u0131\\Tech City\\Tech City\\Program.cs",
+              "RelativeDocumentMoniker": "Tech City\\Program.cs",
+              "ToolTip": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Nesne Tabanl\u0131 Programlama\\2. Hafta \u00D6dev Sorular\u0131\\Tech City\\Tech City\\Program.cs",
+              "RelativeToolTip": "Tech City\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:32:10.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

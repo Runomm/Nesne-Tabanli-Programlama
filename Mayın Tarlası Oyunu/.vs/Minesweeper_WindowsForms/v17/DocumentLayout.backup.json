@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Nesne Tabanli Programlama\\Nesne-Tabanli-Programlama\\May\u0131n Tarlas\u0131 Oyunu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A672FE5F-9448-4040-B849-A1CD781B4DC7}|Minesweeper_WindowsForms.csproj|c:\\users\\mehon\\onedrive\\masa\u00FCst\u00FC\\nesne tabanli programlama\\nesne-tabanli-programlama\\may\u0131n tarlas\u0131 oyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A672FE5F-9448-4040-B849-A1CD781B4DC7}|Minesweeper_WindowsForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A672FE5F-9448-4040-B849-A1CD781B4DC7}|Minesweeper_WindowsForms.csproj|C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Nesne Tabanli Programlama\\Nesne-Tabanli-Programlama\\May\u0131n Tarlas\u0131 Oyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A672FE5F-9448-4040-B849-A1CD781B4DC7}|Minesweeper_WindowsForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A672FE5F-9448-4040-B849-A1CD781B4DC7}|Minesweeper_WindowsForms.csproj|c:\\users\\mehon\\onedrive\\masa\u00FCst\u00FC\\nesne tabanli programlama\\nesne-tabanli-programlama\\may\u0131n tarlas\u0131 oyunu\\minesweeper_windowsforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A672FE5F-9448-4040-B849-A1CD781B4DC7}|Minesweeper_WindowsForms.csproj|solutionrelative:minesweeper_windowsforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A672FE5F-9448-4040-B849-A1CD781B4DC7}|Minesweeper_WindowsForms.csproj|c:\\users\\mehon\\onedrive\\masa\u00FCst\u00FC\\nesne tabanli programlama\\nesne-tabanli-programlama\\may\u0131n tarlas\u0131 oyunu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A672FE5F-9448-4040-B849-A1CD781B4DC7}|Minesweeper_WindowsForms.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Nesne Tabanli Programlama\\Nesne-Tabanli-Programlama\\May\u0131n Tarlas\u0131 Oyunu\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Nesne Tabanli Programlama\\Nesne-Tabanli-Programlama\\May\u0131n Tarlas\u0131 Oyunu\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:59:57.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Minesweeper_WindowsForms.csproj",
+              "DocumentMoniker": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Nesne Tabanli Programlama\\Nesne-Tabanli-Programlama\\May\u0131n Tarlas\u0131 Oyunu\\Minesweeper_WindowsForms.csproj",
+              "RelativeDocumentMoniker": "Minesweeper_WindowsForms.csproj",
+              "ToolTip": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Nesne Tabanli Programlama\\Nesne-Tabanli-Programlama\\May\u0131n Tarlas\u0131 Oyunu\\Minesweeper_WindowsForms.csproj",
+              "RelativeToolTip": "Minesweeper_WindowsForms.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T12:59:45.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Nesne Tabanli Programlama\\Nesne-Tabanli-Programlama\\May\u0131n Tarlas\u0131 Oyunu\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\mehon\\source\\repos\\Minesweeper_WindowsForms\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\Minesweeper_WindowsForms\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:59:33.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Nesne Tabanli Programlama\\Nesne-Tabanli-Programlama\\May\u0131n Tarlas\u0131 Oyunu\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Nesne Tabanli Programlama\\Nesne-Tabanli-Programlama\\May\u0131n Tarlas\u0131 Oyunu\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:59:30.879Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

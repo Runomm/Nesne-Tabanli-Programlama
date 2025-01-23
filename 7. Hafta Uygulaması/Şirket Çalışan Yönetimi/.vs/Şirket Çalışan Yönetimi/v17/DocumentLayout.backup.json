@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehon\\source\\repos\\\u015Eirket \u00C7al\u0131\u015Fan Y\u00F6netimi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4BB69A-8B08-4415-A471-C3F0EF3FB402}|\u015Eirket \u00C7al\u0131\u015Fan Y\u00F6netimi\\\u015Eirket \u00C7al\u0131\u015Fan Y\u00F6netimi.csproj|c:\\users\\mehon\\source\\repos\\\u015Firket \u00E7al\u0131\u015Fan y\u00F6netimi\\\u015Firket \u00E7al\u0131\u015Fan y\u00F6netimi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4BB69A-8B08-4415-A471-C3F0EF3FB402}|\u015Eirket \u00C7al\u0131\u015Fan Y\u00F6netimi\\\u015Eirket \u00C7al\u0131\u015Fan Y\u00F6netimi.csproj|solutionrelative:\u015Firket \u00E7al\u0131\u015Fan y\u00F6netimi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehon\\source\\repos\\\u015Eirket \u00C7al\u0131\u015Fan Y\u00F6netimi\\\u015Eirket \u00C7al\u0131\u015Fan Y\u00F6netimi\\Program.cs",
+              "RelativeDocumentMoniker": "\u015Eirket \u00C7al\u0131\u015Fan Y\u00F6netimi\\Program.cs",
+              "ToolTip": "C:\\Users\\mehon\\source\\repos\\\u015Eirket \u00C7al\u0131\u015Fan Y\u00F6netimi\\\u015Eirket \u00C7al\u0131\u015Fan Y\u00F6netimi\\Program.cs",
+              "RelativeToolTip": "\u015Eirket \u00C7al\u0131\u015Fan Y\u00F6netimi\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwvzwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:09:20.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

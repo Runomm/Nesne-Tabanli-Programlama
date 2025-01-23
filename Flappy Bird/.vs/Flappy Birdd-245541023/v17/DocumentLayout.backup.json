@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Flappy Bird Windows Form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{050C9ABB-A0D1-4404-A4B3-1620AE98F8CD}|Flappy Bird Windows Form\\Flappy Bird Windows Form.csproj|c:\\users\\mehon\\onedrive\\masa\u00FCst\u00FC\\flappy bird windows form\\flappy bird windows form\\resources\\bird.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{050C9ABB-A0D1-4404-A4B3-1620AE98F8CD}|Flappy Bird Windows Form\\Flappy Bird Windows Form.csproj|solutionrelative:flappy bird windows form\\resources\\bird.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050C9ABB-A0D1-4404-A4B3-1620AE98F8CD}|Flappy Bird Windows Form\\Flappy Bird Windows Form.csproj|C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Flappy Bird Windows Form\\flappy bird windows form\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{050C9ABB-A0D1-4404-A4B3-1620AE98F8CD}|Flappy Bird Windows Form\\Flappy Bird Windows Form.csproj|solutionrelative:flappy bird windows form\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050C9ABB-A0D1-4404-A4B3-1620AE98F8CD}|Flappy Bird Windows Form\\Flappy Bird Windows Form.csproj|C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Flappy Bird Windows Form\\flappy bird windows form\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{050C9ABB-A0D1-4404-A4B3-1620AE98F8CD}|Flappy Bird Windows Form\\Flappy Bird Windows Form.csproj|solutionrelative:flappy bird windows form\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050C9ABB-A0D1-4404-A4B3-1620AE98F8CD}|Flappy Bird Windows Form\\Flappy Bird Windows Form.csproj|C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Flappy Bird Windows Form\\flappy bird windows form\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{050C9ABB-A0D1-4404-A4B3-1620AE98F8CD}|Flappy Bird Windows Form\\Flappy Bird Windows Form.csproj|solutionrelative:flappy bird windows form\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050C9ABB-A0D1-4404-A4B3-1620AE98F8CD}|Flappy Bird Windows Form\\Flappy Bird Windows Form.csproj|C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Flappy Bird Windows Form\\flappy bird windows form\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{050C9ABB-A0D1-4404-A4B3-1620AE98F8CD}|Flappy Bird Windows Form\\Flappy Bird Windows Form.csproj|solutionrelative:flappy bird windows form\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050C9ABB-A0D1-4404-A4B3-1620AE98F8CD}|Flappy Bird Windows Form\\Flappy Bird Windows Form.csproj|C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Flappy Bird Windows Form\\flappy bird windows form\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{050C9ABB-A0D1-4404-A4B3-1620AE98F8CD}|Flappy Bird Windows Form\\Flappy Bird Windows Form.csproj|solutionrelative:flappy bird windows form\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050C9ABB-A0D1-4404-A4B3-1620AE98F8CD}|Flappy Bird Windows Form\\Flappy Bird Windows Form.csproj|C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Flappy Bird Windows Form\\flappy bird windows form\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{050C9ABB-A0D1-4404-A4B3-1620AE98F8CD}|Flappy Bird Windows Form\\Flappy Bird Windows Form.csproj|solutionrelative:flappy bird windows form\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050C9ABB-A0D1-4404-A4B3-1620AE98F8CD}|Flappy Bird Windows Form\\Flappy Bird Windows Form.csproj|C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Flappy Bird Windows Form\\flappy bird windows form\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{050C9ABB-A0D1-4404-A4B3-1620AE98F8CD}|Flappy Bird Windows Form\\Flappy Bird Windows Form.csproj|solutionrelative:flappy bird windows form\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050C9ABB-A0D1-4404-A4B3-1620AE98F8CD}|Flappy Bird Windows Form\\Flappy Bird Windows Form.csproj|C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Flappy Bird Windows Form\\flappy bird windows form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{050C9ABB-A0D1-4404-A4B3-1620AE98F8CD}|Flappy Bird Windows Form\\Flappy Bird Windows Form.csproj|solutionrelative:flappy bird windows form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050C9ABB-A0D1-4404-A4B3-1620AE98F8CD}|Flappy Bird Windows Form\\Flappy Bird Windows Form.csproj|C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Flappy Bird Windows Form\\flappy bird windows form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{050C9ABB-A0D1-4404-A4B3-1620AE98F8CD}|Flappy Bird Windows Form\\Flappy Bird Windows Form.csproj|solutionrelative:flappy bird windows form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Flappy Bird Windows Form\\Flappy Bird Windows Form\\Form1.cs",
+              "RelativeDocumentMoniker": "Flappy Bird Windows Form\\Form1.cs",
+              "ToolTip": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Flappy Bird Windows Form\\Flappy Bird Windows Form\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Flappy Bird Windows Form\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:04:10.1Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bird.png - PNG [80x60, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Flappy Bird Windows Form\\Flappy Bird Windows Form\\Resources\\bird.png",
+              "RelativeDocumentMoniker": "Flappy Bird Windows Form\\Resources\\bird.png",
+              "ToolTip": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Flappy Bird Windows Form\\Flappy Bird Windows Form\\Resources\\bird.png - PNG [80x60, 32 bit, PNG]",
+              "RelativeToolTip": "Flappy Bird Windows Form\\Resources\\bird.png - PNG [80x60, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-25T08:24:49.541Z",
+              "EditorCaption": " - PNG [80x60, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Flappy Bird Windows Form\\Flappy Bird Windows Form\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Flappy Bird Windows Form\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Flappy Bird Windows Form\\Flappy Bird Windows Form\\Properties\\Resources.resx",
+              "RelativeToolTip": "Flappy Bird Windows Form\\Properties\\Resources.resx",
+              "ViewState": "AgIAAGgAAAAAAAAAAAApwHoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-25T08:24:34.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Flappy Bird Windows Form\\Flappy Bird Windows Form\\App.config",
+              "RelativeDocumentMoniker": "Flappy Bird Windows Form\\App.config",
+              "ToolTip": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Flappy Bird Windows Form\\Flappy Bird Windows Form\\App.config",
+              "RelativeToolTip": "Flappy Bird Windows Form\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-25T08:10:23.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Flappy Bird Windows Form\\Flappy Bird Windows Form\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "Flappy Bird Windows Form\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Flappy Bird Windows Form\\Flappy Bird Windows Form\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "Flappy Bird Windows Form\\Properties\\Settings.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:09:39.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Flappy Bird Windows Form\\Flappy Bird Windows Form\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Flappy Bird Windows Form\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Flappy Bird Windows Form\\Flappy Bird Windows Form\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Flappy Bird Windows Form\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAD4v0EAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:08:54.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Flappy Bird Windows Form\\Flappy Bird Windows Form\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Flappy Bird Windows Form\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Flappy Bird Windows Form\\Flappy Bird Windows Form\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Flappy Bird Windows Form\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:08:39.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Flappy Bird Windows Form\\Flappy Bird Windows Form\\Program.cs",
+              "RelativeDocumentMoniker": "Flappy Bird Windows Form\\Program.cs",
+              "ToolTip": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Flappy Bird Windows Form\\Flappy Bird Windows Form\\Program.cs",
+              "RelativeToolTip": "Flappy Bird Windows Form\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:06:16.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Flappy Bird Windows Form\\Flappy Bird Windows Form\\Form1.cs",
+              "RelativeDocumentMoniker": "Flappy Bird Windows Form\\Form1.cs",
+              "ToolTip": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Flappy Bird Windows Form\\Flappy Bird Windows Form\\Form1.cs",
+              "RelativeToolTip": "Flappy Bird Windows Form\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:04:27.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Flappy Bird Windows Form\\Flappy Bird Windows Form\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Flappy Bird Windows Form\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\mehon\\OneDrive\\Masa\u00FCst\u00FC\\Flappy Bird Windows Form\\Flappy Bird Windows Form\\Form1.Designer.cs",
+              "RelativeToolTip": "Flappy Bird Windows Form\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:04:18.616Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

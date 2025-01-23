@@ -1,0 +1,14 @@
+C:\Users\mehon\source\repos\İki Matrisin Çarpımı\İki Matrisin Çarpımı\bin\Debug\net8.0\İki Matrisin Çarpımı.exe
+C:\Users\mehon\source\repos\İki Matrisin Çarpımı\İki Matrisin Çarpımı\bin\Debug\net8.0\İki Matrisin Çarpımı.deps.json
+C:\Users\mehon\source\repos\İki Matrisin Çarpımı\İki Matrisin Çarpımı\bin\Debug\net8.0\İki Matrisin Çarpımı.runtimeconfig.json
+C:\Users\mehon\source\repos\İki Matrisin Çarpımı\İki Matrisin Çarpımı\bin\Debug\net8.0\İki Matrisin Çarpımı.dll
+C:\Users\mehon\source\repos\İki Matrisin Çarpımı\İki Matrisin Çarpımı\bin\Debug\net8.0\İki Matrisin Çarpımı.pdb
+C:\Users\mehon\source\repos\İki Matrisin Çarpımı\İki Matrisin Çarpımı\obj\Debug\net8.0\İki Matrisin Çarpımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehon\source\repos\İki Matrisin Çarpımı\İki Matrisin Çarpımı\obj\Debug\net8.0\İki Matrisin Çarpımı.AssemblyInfoInputs.cache
+C:\Users\mehon\source\repos\İki Matrisin Çarpımı\İki Matrisin Çarpımı\obj\Debug\net8.0\İki Matrisin Çarpımı.AssemblyInfo.cs
+C:\Users\mehon\source\repos\İki Matrisin Çarpımı\İki Matrisin Çarpımı\obj\Debug\net8.0\İki Matrisin Çarpımı.csproj.CoreCompileInputs.cache
+C:\Users\mehon\source\repos\İki Matrisin Çarpımı\İki Matrisin Çarpımı\obj\Debug\net8.0\İki Matrisin Çarpımı.dll
+C:\Users\mehon\source\repos\İki Matrisin Çarpımı\İki Matrisin Çarpımı\obj\Debug\net8.0\refint\İki Matrisin Çarpımı.dll
+C:\Users\mehon\source\repos\İki Matrisin Çarpımı\İki Matrisin Çarpımı\obj\Debug\net8.0\İki Matrisin Çarpımı.pdb
+C:\Users\mehon\source\repos\İki Matrisin Çarpımı\İki Matrisin Çarpımı\obj\Debug\net8.0\İki Matrisin Çarpımı.genruntimeconfig.cache
+C:\Users\mehon\source\repos\İki Matrisin Çarpımı\İki Matrisin Çarpımı\obj\Debug\net8.0\ref\İki Matrisin Çarpımı.dll

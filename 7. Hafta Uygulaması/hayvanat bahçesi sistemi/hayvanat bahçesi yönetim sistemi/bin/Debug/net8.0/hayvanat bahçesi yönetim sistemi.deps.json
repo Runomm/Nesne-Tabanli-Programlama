@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "hayvanat bahçesi yönetim sistemi/1.0.0": {
+        "runtime": {
+          "hayvanat bahçesi yönetim sistemi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hayvanat bahçesi yönetim sistemi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

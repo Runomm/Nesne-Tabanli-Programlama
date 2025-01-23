@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Şirket Çalışan Yönetimi/1.0.0": {
+        "runtime": {
+          "Şirket Çalışan Yönetimi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Şirket Çalışan Yönetimi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

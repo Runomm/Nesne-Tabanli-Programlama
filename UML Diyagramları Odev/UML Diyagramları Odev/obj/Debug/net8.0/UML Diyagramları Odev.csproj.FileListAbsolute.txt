@@ -1,0 +1,14 @@
+C:\Users\mehon\source\repos\UML Diyagramları Odev\UML Diyagramları Odev\bin\Debug\net8.0\UML Diyagramları Odev.exe
+C:\Users\mehon\source\repos\UML Diyagramları Odev\UML Diyagramları Odev\bin\Debug\net8.0\UML Diyagramları Odev.deps.json
+C:\Users\mehon\source\repos\UML Diyagramları Odev\UML Diyagramları Odev\bin\Debug\net8.0\UML Diyagramları Odev.runtimeconfig.json
+C:\Users\mehon\source\repos\UML Diyagramları Odev\UML Diyagramları Odev\bin\Debug\net8.0\UML Diyagramları Odev.dll
+C:\Users\mehon\source\repos\UML Diyagramları Odev\UML Diyagramları Odev\bin\Debug\net8.0\UML Diyagramları Odev.pdb
+C:\Users\mehon\source\repos\UML Diyagramları Odev\UML Diyagramları Odev\obj\Debug\net8.0\UML Diyagramları Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehon\source\repos\UML Diyagramları Odev\UML Diyagramları Odev\obj\Debug\net8.0\UML Diyagramları Odev.AssemblyInfoInputs.cache
+C:\Users\mehon\source\repos\UML Diyagramları Odev\UML Diyagramları Odev\obj\Debug\net8.0\UML Diyagramları Odev.AssemblyInfo.cs
+C:\Users\mehon\source\repos\UML Diyagramları Odev\UML Diyagramları Odev\obj\Debug\net8.0\UML Diyagramları Odev.csproj.CoreCompileInputs.cache
+C:\Users\mehon\source\repos\UML Diyagramları Odev\UML Diyagramları Odev\obj\Debug\net8.0\UML Diyagramları Odev.dll
+C:\Users\mehon\source\repos\UML Diyagramları Odev\UML Diyagramları Odev\obj\Debug\net8.0\refint\UML Diyagramları Odev.dll
+C:\Users\mehon\source\repos\UML Diyagramları Odev\UML Diyagramları Odev\obj\Debug\net8.0\UML Diyagramları Odev.pdb
+C:\Users\mehon\source\repos\UML Diyagramları Odev\UML Diyagramları Odev\obj\Debug\net8.0\UML Diyagramları Odev.genruntimeconfig.cache
+C:\Users\mehon\source\repos\UML Diyagramları Odev\UML Diyagramları Odev\obj\Debug\net8.0\ref\UML Diyagramları Odev.dll

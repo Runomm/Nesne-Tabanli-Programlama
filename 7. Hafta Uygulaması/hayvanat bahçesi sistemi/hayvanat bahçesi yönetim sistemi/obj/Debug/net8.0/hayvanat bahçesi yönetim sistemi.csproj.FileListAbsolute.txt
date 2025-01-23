@@ -1,0 +1,14 @@
+C:\Users\mehon\source\repos\hayvanat bahçesi yönetim sistemi\hayvanat bahçesi yönetim sistemi\bin\Debug\net8.0\hayvanat bahçesi yönetim sistemi.exe
+C:\Users\mehon\source\repos\hayvanat bahçesi yönetim sistemi\hayvanat bahçesi yönetim sistemi\bin\Debug\net8.0\hayvanat bahçesi yönetim sistemi.deps.json
+C:\Users\mehon\source\repos\hayvanat bahçesi yönetim sistemi\hayvanat bahçesi yönetim sistemi\bin\Debug\net8.0\hayvanat bahçesi yönetim sistemi.runtimeconfig.json
+C:\Users\mehon\source\repos\hayvanat bahçesi yönetim sistemi\hayvanat bahçesi yönetim sistemi\bin\Debug\net8.0\hayvanat bahçesi yönetim sistemi.dll
+C:\Users\mehon\source\repos\hayvanat bahçesi yönetim sistemi\hayvanat bahçesi yönetim sistemi\bin\Debug\net8.0\hayvanat bahçesi yönetim sistemi.pdb
+C:\Users\mehon\source\repos\hayvanat bahçesi yönetim sistemi\hayvanat bahçesi yönetim sistemi\obj\Debug\net8.0\hayvanat bahçesi yönetim sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehon\source\repos\hayvanat bahçesi yönetim sistemi\hayvanat bahçesi yönetim sistemi\obj\Debug\net8.0\hayvanat bahçesi yönetim sistemi.AssemblyInfoInputs.cache
+C:\Users\mehon\source\repos\hayvanat bahçesi yönetim sistemi\hayvanat bahçesi yönetim sistemi\obj\Debug\net8.0\hayvanat bahçesi yönetim sistemi.AssemblyInfo.cs
+C:\Users\mehon\source\repos\hayvanat bahçesi yönetim sistemi\hayvanat bahçesi yönetim sistemi\obj\Debug\net8.0\hayvanat bahçesi yönetim sistemi.csproj.CoreCompileInputs.cache
+C:\Users\mehon\source\repos\hayvanat bahçesi yönetim sistemi\hayvanat bahçesi yönetim sistemi\obj\Debug\net8.0\hayvanat bahçesi yönetim sistemi.dll
+C:\Users\mehon\source\repos\hayvanat bahçesi yönetim sistemi\hayvanat bahçesi yönetim sistemi\obj\Debug\net8.0\refint\hayvanat bahçesi yönetim sistemi.dll
+C:\Users\mehon\source\repos\hayvanat bahçesi yönetim sistemi\hayvanat bahçesi yönetim sistemi\obj\Debug\net8.0\hayvanat bahçesi yönetim sistemi.pdb
+C:\Users\mehon\source\repos\hayvanat bahçesi yönetim sistemi\hayvanat bahçesi yönetim sistemi\obj\Debug\net8.0\hayvanat bahçesi yönetim sistemi.genruntimeconfig.cache
+C:\Users\mehon\source\repos\hayvanat bahçesi yönetim sistemi\hayvanat bahçesi yönetim sistemi\obj\Debug\net8.0\ref\hayvanat bahçesi yönetim sistemi.dll

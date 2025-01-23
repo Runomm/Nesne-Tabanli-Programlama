@@ -1,0 +1,14 @@
+C:\Users\mehon\source\repos\asal sayı bulma\asal sayı bulma\bin\Debug\net8.0\asal sayı bulma.exe
+C:\Users\mehon\source\repos\asal sayı bulma\asal sayı bulma\bin\Debug\net8.0\asal sayı bulma.deps.json
+C:\Users\mehon\source\repos\asal sayı bulma\asal sayı bulma\bin\Debug\net8.0\asal sayı bulma.runtimeconfig.json
+C:\Users\mehon\source\repos\asal sayı bulma\asal sayı bulma\bin\Debug\net8.0\asal sayı bulma.dll
+C:\Users\mehon\source\repos\asal sayı bulma\asal sayı bulma\bin\Debug\net8.0\asal sayı bulma.pdb
+C:\Users\mehon\source\repos\asal sayı bulma\asal sayı bulma\obj\Debug\net8.0\asal sayı bulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehon\source\repos\asal sayı bulma\asal sayı bulma\obj\Debug\net8.0\asal sayı bulma.AssemblyInfoInputs.cache
+C:\Users\mehon\source\repos\asal sayı bulma\asal sayı bulma\obj\Debug\net8.0\asal sayı bulma.AssemblyInfo.cs
+C:\Users\mehon\source\repos\asal sayı bulma\asal sayı bulma\obj\Debug\net8.0\asal sayı bulma.csproj.CoreCompileInputs.cache
+C:\Users\mehon\source\repos\asal sayı bulma\asal sayı bulma\obj\Debug\net8.0\asal sayı bulma.dll
+C:\Users\mehon\source\repos\asal sayı bulma\asal sayı bulma\obj\Debug\net8.0\refint\asal sayı bulma.dll
+C:\Users\mehon\source\repos\asal sayı bulma\asal sayı bulma\obj\Debug\net8.0\asal sayı bulma.pdb
+C:\Users\mehon\source\repos\asal sayı bulma\asal sayı bulma\obj\Debug\net8.0\asal sayı bulma.genruntimeconfig.cache
+C:\Users\mehon\source\repos\asal sayı bulma\asal sayı bulma\obj\Debug\net8.0\ref\asal sayı bulma.dll
