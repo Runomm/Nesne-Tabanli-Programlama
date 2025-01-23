@@ -4,9 +4,6 @@
     {
         static void Main(string[] args)
         {
-            //Mehmet Onur Boyraz
-            //Yazılım Mühendisliği İ.Ö.
-            //245541023
 
             //Yukarı Aşağı Sol Sağ
             int[] dx = { -1, 1, 0, 0 };
