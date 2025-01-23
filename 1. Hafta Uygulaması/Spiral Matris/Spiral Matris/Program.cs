@@ -4,10 +4,7 @@
     {
         static void Main(string[] args)
         {
-            //Mehmet Onur Boyraz
-            //Yazılım Mühendisliği İ.Ö.
-            //245541023
-
+           
             Console.WriteLine("Matrisin boyutunu girin (NxN):");
             int n = int.Parse(Console.ReadLine());
 
