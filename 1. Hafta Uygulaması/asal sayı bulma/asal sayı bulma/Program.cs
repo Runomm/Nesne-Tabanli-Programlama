@@ -6,9 +6,6 @@ namespace asal_sayı_bulma
     {
         static void Main(string[] args)
         {
-            //Mehmet Onur Boyraz
-            //Yazılım Mühendisliği İ.Ö.
-            //245541023
 
             int total = 0;//toplamların depolanacağı değişken
             Console.WriteLine("Sayı gir:");
