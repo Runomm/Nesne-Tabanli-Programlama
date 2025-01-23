@@ -5,10 +5,7 @@
         static void Main(string[] args)
         {
 
-            //Mehmet Onur Boyraz
-            //Yazılım Mühendisliği İ.Ö.
-            //245541023
-
+           
             Console.WriteLine("Matrislerin boyutunu girin (NxN):");
             int n = int.Parse(Console.ReadLine());
             int[,] matris1 = new int[n, n];
